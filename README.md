@@ -15,21 +15,6 @@ A simple URL shortener application built with **Vue.js** for the frontend and **
 
 ---
 
-## Project Structure
-.
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   ├── Dockerfile
-│   └── package.json
-├── backend/
-│   ├── src/
-│   ├── Dockerfile
-│   └── package.json
-├── docker-compose.yml
-
-
-
 ## Run the Application
 To build and run the application locally, follow these steps:
 
